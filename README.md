@@ -53,6 +53,7 @@ Tenho experiência com:
 <img align="center" alt="spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img align="center" alt="spring security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
 ### Banco de Dados & Infraestrutura
 
